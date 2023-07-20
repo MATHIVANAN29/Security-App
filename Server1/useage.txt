@@ -1,0 +1,7 @@
+sudo chmod 777 /dev/input/event0
+
+tk4100-rfid-reader config.json
+
+
+node index.js
+

@@ -1,0 +1,4 @@
+#!/usr/bin/env bash 
+tag=$RFID_TAG_ID
+echo "running command as $(whoami) for tag $tag"
+

@@ -1,0 +1,34 @@
+{
+  "name": "testrfid",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "child_process": "^1.0.2",
+    "cookie-parser": "^1.4.6",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "fs": "^0.0.1-security",
+    "knex": "^2.3.0",
+    "mkdirp": "^0.5.6",
+    "moment": "^2.29.4",
+    "morgan": "^1.10.0",
+    "multer": "*",
+    "nodemon": "^2.0.22",
+    "path": "^0.12.7",
+    "pg": "^8.8.0",
+    "promise": "^8.3.0",
+    "request": "^2.88.2",
+    "serialport": "^10.5.0",
+    "serve-favicon": "^2.5.0",
+    "shelljs": "^0.8.5",
+    "tk4100-rfid-reader": "^1.0.0",
+    "uuidv1": "^1.6.14"
+  }
+}
