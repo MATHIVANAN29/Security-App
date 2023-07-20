@@ -1,0 +1,48 @@
+
+
+
+source flask-env/bin/activate
+
+
+
+export FLASK_APP=app.py
+export FLASK_ENV=development
+flask run --host=0.0.0.0
+
+
+
+
+run:
+
+flask run --host=0.0.0.0
+
+
+
+install:
+
+pip3 install numpy==1.19.4
+
+pip3 install requests
+pip3 install jsonpickle
+pip3 install opencv-python
+pip3 install facenet-pytorch
+
+
+apt-get install python-flask
+
+
+
+python3 -m venv flask-env
+
+source flask-env/bin/activate
+
+
+pip3 install MarkupSafe
+
+pip3 install flask
+
+
+
+ sudo freenect-glview
+
+
