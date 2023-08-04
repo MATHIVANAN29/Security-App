@@ -38,7 +38,7 @@ git clone https://github.com/MATHIVANAN29/Security-App.git
 
 - then open the browser landingBase to start the app(first page of the app frontend)
   ```
-  double click on landingBase.html file
+  double click on landingBase.html file in the frontend folder
   ```
 - alternatively
   ```
