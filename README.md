@@ -28,7 +28,7 @@ git clone https://github.com/MATHIVANAN29/Security-App.git
   ```
   cd Server2
 
-  source flask-env/bin/activate
+  conda activate securityapp
   export FLASK_APP=app.py
   export FLASK_ENV=development
   flask run --host=0.0.0.0
@@ -64,6 +64,8 @@ npm install
 ```
 - Install server2 requirements
 ```
+conda activate securityapp
+
 pip3 install numpy==1.19.4
 pip3 install requests
 pip3 install jsonpickle
