@@ -12,7 +12,8 @@ The source code comprises three modules:
 git clone https://github.com/MATHIVANAN29/Security-App.git
 ```
 - then enter the folder i.e
-  ```cd Security-App
+  ```
+  cd Security-App
   ```
 - unzip the frontend
   ```
