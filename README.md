@@ -35,7 +35,23 @@ git clone https://github.com/MATHIVANAN29/Security-App.git
   
   ```
 
-- then open the browser on port
+- then open the browser landingBase to start the app(first page of the app frontend)
+  ```
+  double click on landingBase.html file
+  ```
+- alternatively
+  ```
+  cd frontend
+  ./start.sh
+  ```
+  will auotmatically open the chromium browser and start the app
+
+
+### note:
+if running from a different computer change the IP address to the computer where server1 and server2 are located
+![image](https://github.com/MATHIVANAN29/Security-App/assets/116044651/f72377ba-c6c0-45bd-aa1c-2d16fd2b3870)
+find the TARGET_IP variable at the top of the highlighted files in the image above and modify to ther host computers IP address
+
   
 
 ## first time useage installation
