@@ -56,13 +56,13 @@ find the TARGET_IP variable at the top of the highlighted files in the image abo
 
 ## first time useage installation
 
-If running for the first time cd into server 1 and install prerequisite i.e
+- If running for the first time cd into server 1 and install prerequisite i.e
 ```
 cd Security-App
 cd Server1
 npm install
 ```
-Install server2 requirements
+- Install server2 requirements
 ```
 pip3 install numpy==1.19.4
 pip3 install requests
